@@ -11,3 +11,7 @@
     fun and useful distro to all of you. Bear with me, and watch Sakura Linux grow.
     Slow and steady.
     ~ゆき/YvKi
+
+	[5:57pm]
+	I finished the first stage of gcc, binutils and building the kernel. 
+	No idea how long the rest is going to take me but I'll update more later on.
