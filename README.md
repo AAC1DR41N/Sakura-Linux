@@ -1,2 +1,2 @@
 # Sakura-Linux
-~minimalism in full bloom~
+__*minimalism in full bloom*__
