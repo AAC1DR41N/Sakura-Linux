@@ -15,3 +15,7 @@
 	[5:57pm]
 	I finished the first stage of gcc, binutils and building the kernel. 
 	No idea how long the rest is going to take me but I'll update more later on.
+
+[Sunday. May 3rd. 9:21pm]
+	- Well... My plan was to upgrade my Gentoo system from kernel 6.12.x to 7.x but I messed up and have to reinstall everything.
+	  I'll continue working on this project once I have everything set up again...
